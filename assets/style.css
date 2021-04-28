@@ -36,7 +36,6 @@ header .conteudo{
     font-style: normal;
     font-weight: normal;
     
-
 }
 
 .links a{
@@ -76,3 +75,77 @@ main .conteudo .noticias .post  h1 {
     color: #000000;
     
     }   
+
+main .conteudo .noticias .post p {
+        margin: 24px;
+        color: #545454;
+   
+       } 
+       
+main .conteudo .noticias .post a {
+
+    border: 1px solid  #FE0078;
+    border-radius: 50px;
+    padding: 15px 30px;
+    color: #545454;
+    text-decoration: none;
+    font-family: Open Sans;
+    font-size: 15px;
+    
+     }
+
+main .conteudo .sidebar{
+
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.12);
+    border-radius: 4px;
+    
+    }
+
+ main .conteudo .sidebar .busca, .categoria{
+
+    margin-bottom: 24px;
+    
+    
+    }
+
+ main .conteudo .sidebar .busca input {
+
+    border: 1px solid #EEEEEE;
+    border-radius: 10px;
+    padding: 15px 20px;
+    outline: none;
+    width: 90%;
+    
+    
+    }
+
+ main .conteudo .sidebar .busca input:hover{
+
+    border: 1px solid #FE0078;
+    
+    }
+
+ 
+main .conteudo .sidebar .categoria h2{
+
+    color: #000000;
+    font-size: 18px;
+    border-left: 3px solid #FE0078 ;
+    padding-left: 11px;
+    
+    
+    }
+
+main .conteudo .sidebar .categoria ul li{
+
+    list-style: none;
+    display:flex;
+    justify-content: space-between;
+    padding: 16px 10px;
+    border-bottom: 1px dotted #EEEEEE;
+    cursor: pointer;
+    
+    }
+
