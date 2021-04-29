@@ -76,12 +76,12 @@ main .conteudo .noticias .post{
     margin-bottom: 2rem;
     }
 
-    /* alterações kadu */
-    main .conteudo .noticias .post:last-child{
-        margin-bottom: 0;
+    
+main .conteudo .noticias .post:last-child{
+     margin-bottom: 0;
 }
 
-/* alterações kadu */
+
 main .conteudo .noticias .post .button{
     display: flex;
     justify-content: flex-end;
@@ -95,10 +95,10 @@ main .conteudo .noticias .post  h1 {
     }   
 
 main .conteudo .noticias .post p {
-        margin: 24px;
-        color: #545454;
+    margin: 24px;
+    color: #545454;
    
-       } 
+    } 
        
 main .conteudo .noticias .post a {
     border: 1px solid  #FE0078;
@@ -109,10 +109,10 @@ main .conteudo .noticias .post a {
     font-size: 15px;
     }
 
-    main .conteudo .noticias .post a:hover {
-        background-color: #FE0078;
-        color: #FFFFFF;
-        }
+main .conteudo .noticias .post a:hover {
+    background-color: #FE0078;
+    color: #FFFFFF;
+    }
 
 main .conteudo .sidebar{
 
@@ -143,7 +143,7 @@ main .conteudo .sidebar{
     }
 
  
-main .conteudo .sidebar .categoria h2{
+ main .conteudo .sidebar .categoria h2{
 
     color: #000000;
     font-size: 18px;
@@ -152,8 +152,8 @@ main .conteudo .sidebar .categoria h2{
     }
 
 
-    main .conteudo .sidebar .categoria ul {
-        padding: 2rem 0;
+main .conteudo .sidebar .categoria ul {
+    padding: 2rem 0;
     }
 
 main .conteudo .sidebar .categoria ul li{
