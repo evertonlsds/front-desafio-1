@@ -3,7 +3,7 @@
     padding: 0;
 }
 
-body,input,button{
+body,button{
     background-color: #E5E5E5;
     font-family: 'Open Sans', sans-serif;
 }
@@ -75,6 +75,17 @@ main .conteudo .noticias .post{
     border-radius: 4px;
     margin-bottom: 2rem;
     }
+
+main .conteudo .noticias .comentario{
+
+        
+    padding: 45px 0 ;
+    border-radius: 4px;
+    margin-bottom: 2rem;
+    
+    }
+
+   
 
     
 main .conteudo .noticias .post:last-child{
