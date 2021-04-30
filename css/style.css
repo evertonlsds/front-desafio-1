@@ -77,6 +77,17 @@ main .conteudo .noticias .post{
     margin-bottom: 2rem;
     }
 
+    main .conteudo .noticias .post .lista1,.lista2{
+
+        margin-left: 4rem;
+
+    }
+    main .conteudo .noticias .post .lista1 ul{
+        margin-left: 4rem;
+    }
+
+
+
 main .conteudo .noticias .comentario{
 
         
